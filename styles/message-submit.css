@@ -1,0 +1,315 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 153.6rem;
+}
+
+.message-submit-qNF {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.message-submit-qNF .auto-group-nxcj-P8s {
+  margin-bottom: 5.7rem;
+  box-sizing: border-box;
+  padding: 3.1rem 6.85rem 2.2rem 3.5rem;
+  width: 100%;
+  height: 15.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8899999857);
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .auto-group-nxcj-P8s .auto-group-d9e7-VBu {
+  margin-right: 34.55rem;
+  width: 46.9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .auto-group-nxcj-P8s .auto-group-d9e7-VBu .auto-group-hvcb-Dtb {
+  margin: 0rem 25.35rem 1.2rem 0rem;
+  width: calc(100% - 25.35rem);
+  display: flex;
+  align-items: center;
+}
+
+.message-submit-qNF .auto-group-nxcj-P8s .auto-group-d9e7-VBu .auto-group-hvcb-Dtb .scrap3-removebg-preview-75-ME7 {
+  margin-right: 0.2033rem;
+  width: 5.1467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .auto-group-nxcj-P8s .auto-group-d9e7-VBu .auto-group-hvcb-Dtb .scrap-symphony-sanctuary-4uD {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .auto-group-nxcj-P8s .auto-group-d9e7-VBu .eco-clean-waste-management-xjh {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.message-submit-qNF .auto-group-nxcj-P8s .home-about-us-overview-schedule-pickup-contact-us-GEb {
+  margin-bottom: 0.9rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .auto-group-nxcj-P8s .home-about-us-overview-schedule-pickup-contact-us-GEb .home-about-us-overview-schedule-pickup-contact-us-GEb-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+a {
+  text-decoration: none;
+}
+
+.message-submit-qNF .auto-group-nxcj-P8s .home-about-us-overview-schedule-pickup-contact-us-GEb .home-about-us-overview-schedule-pickup-contact-us-GEb-sub-1 {}
+
+.message-submit-qNF .frame-427319655-9hh {
+  margin: 0rem 37.1rem 4.8rem 37rem;
+  box-sizing: border-box;
+  padding: 1.15rem 11.45rem;
+  width: calc(100% - 74.1rem);
+  height: 39.5rem;
+  overflow: hidden;
+  position: relative;
+  background-color: rgba(119, 119, 119, 0.1000000015);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .frame-427319655-9hh .frame-427319654-rs1 {
+  width: 100%;
+  height: 35.3rem;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.message-submit-qNF .frame-427319655-9hh .frame-427319654-rs1 .group-36-1E7 {
+  margin: 0 23.3rem;
+  box-sizing: border-box;
+  padding: 1.463rem 0.679rem 1.463rem 2.462rem;
+  width: calc(100% - 46.6rem);
+  height: 10rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-22B.png');
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .frame-427319655-9hh .frame-427319654-rs1 .group-36-1E7 .vector-83q {
+  width: 6.8588rem;
+  height: 5.3265rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.message-submit-qNF .frame-427319655-9hh .frame-427319654-rs1 .frame-427319653-rEj {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .frame-427319655-9hh .frame-427319654-rs1 .frame-427319653-rEj .message-sent-successfully--QGF {
+  margin-bottom: 0.9rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #128807;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .frame-427319655-9hh .frame-427319654-rs1 .frame-427319653-rEj .we-will-contact-you-soon-and-solve-your-queries-W4P {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .frame-427319655-9hh .frame-427319654-rs1 .thank-you--oJP {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .frame-427319655-9hh .frame-427319654-rs1 .if-you-want-to-continue-go-back-to-home-page-LJK {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .frame-427319655-9hh .frame-427319654-rs1 .if-you-want-to-continue-go-back-to-home-page-LJK .if-you-want-to-continue-go-back-to-home-page-LJK-sub-0 {}
+
+.message-submit-qNF .frame-427319655-9hh .frame-427319654-rs1 .if-you-want-to-continue-go-back-to-home-page-LJK .if-you-want-to-continue-go-back-to-home-page-LJK-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.024rem;
+  color: #128807;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.message-submit-qNF .frame-427319655-9hh .frame-427319654-rs1 .if-you-want-to-continue-go-back-to-home-page-LJK .if-you-want-to-continue-go-back-to-home-page-LJK-sub-2 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.024rem;
+  color: #128807;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.if-you-want-to-continue-go-back-to-home-page-LJK-sub-2 a {
+  color: #128807;
+  margin-left: 10px;
+}
+
+.message-submit-qNF .auto-group-rkp1-hAo {
+  box-sizing: border-box;
+  padding: 0.9rem 9.7rem 0rem 10.5rem;
+  width: 100%;
+  height: 6.2094rem;
+  display: flex;
+  align-items: center;
+  background-color: #555555;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .auto-group-rkp1-hAo .frame-40-pFR {
+  margin-right: 25.5333rem;
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .auto-group-rkp1-hAo .frame-40-pFR .mask-group-xsR {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .auto-group-rkp1-hAo .frame-40-pFR .mask-group-6yd {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .auto-group-rkp1-hAo .terms-condition-privacy-policy-3ts {
+  margin: 0rem 32.1rem 3.109rem 0rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.message-submit-qNF .auto-group-rkp1-hAo .scrap-symphony-sanctuary-all-rights-reserved-Lsy {
+  margin-bottom: 3.1094rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

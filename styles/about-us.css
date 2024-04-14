@@ -1,0 +1,833 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 153.6rem;
+}
+
+.about-us-52X {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.about-us-52X .auto-group-jkyz-PJ7 {
+  box-sizing: border-box;
+  padding: 3.1rem 6.85rem 2.2rem 3.5rem;
+  width: 100%;
+  height: 15.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8899999857);
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-jkyz-PJ7 .auto-group-bekq-h3u {
+  margin-right: 34.55rem;
+  width: 46.9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-jkyz-PJ7 .auto-group-bekq-h3u .auto-group-oyyk-2rs {
+  margin: 0rem 25.35rem 1.2rem 0rem;
+  width: calc(100% - 25.35rem);
+  display: flex;
+  align-items: center;
+}
+
+.about-us-52X .auto-group-jkyz-PJ7 .auto-group-bekq-h3u .auto-group-oyyk-2rs .scrap3-removebg-preview-75-MPM {
+  margin-right: 0.2033rem;
+  width: 5.1467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-jkyz-PJ7 .auto-group-bekq-h3u .auto-group-oyyk-2rs .scrap-symphony-sanctuary-4oZ {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-jkyz-PJ7 .auto-group-bekq-h3u .eco-clean-waste-management-MGs {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.about-us-52X .auto-group-jkyz-PJ7 .home-about-us-overview-schedule-pickup-contact-us-e15 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-jkyz-PJ7 .home-about-us-overview-schedule-pickup-contact-us-e15 .home-about-us-overview-schedule-pickup-contact-us-e15-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+a {
+  text-decoration: none;
+}
+
+.about-us-52X .auto-group-jkyz-PJ7 .home-about-us-overview-schedule-pickup-contact-us-e15 .home-about-us-overview-schedule-pickup-contact-us-e15-sub-1 {}
+
+.about-us-52X .auto-group-ttcb-nQ7 {
+  margin-bottom: 6.6rem;
+  width: 100%;
+  height: 13.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-ttcb-nQ7 .about-us-ioZ {
+  width: 17.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 66.7rem;
+  top: 2.5rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.about-us-52X .auto-group-ttcb-nQ7 .rectangle-940-DVR {
+  width: 153.6rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.0799999982);
+}
+
+.about-us-52X .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F {
+  margin: 0rem 0rem 10.3rem 1.5rem;
+  max-width: 127.9rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-52X .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F-sub-0 {}
+
+.about-us-52X .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-52X .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F-sub-2 {}
+
+.about-us-52X .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-52X .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F-sub-4 {}
+
+.about-us-52X .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F-sub-5 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-52X .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F .welcome-to-scrap-symphony-sanctuary-eco-clean-waste-management-your-trusted-partner-in-waste-disposal-at-eco-clean-waste-management-we-believe-in-a-sustainable-future-and-were-dedicated-to-making-the-process-of-waste-disposal-not-only-convenient-but-also-rewarding-for-our-users-L4F-sub-6 {}
+
+.about-us-52X .auto-group-kxv3-x9V {
+  margin: 0rem 15.7rem 8.7rem 13.6rem;
+  width: calc(100% - 29.3rem);
+  height: 39.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-kxv3-x9V .image-22-dWX {
+  margin-right: 4.7rem;
+  width: 70.3rem;
+  height: 39.3rem;
+  position: relative;
+  background-size: 109.792% 100%;
+  background-position: -5.2488rem 0rem;
+  background-image: url('../assets/image-22.png');
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-kxv3-x9V .auto-group-pt31-K8T {
+  margin: 4.6rem 0rem 5.45rem 0rem;
+  height: calc(100% - 10.05rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-kxv3-x9V .auto-group-pt31-K8T .our-mission-RxB {
+  margin-bottom: 2.25rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-kxv3-x9V .auto-group-pt31-K8T .at-the-core-of-our-mission-is-the-commitment-to-create-a-cleaner-environment-by-providing-an-innovative-and-user-friendly-platform-for-waste-disposal-we-strive-to-empower-individuals-and-businesses-to-contribute-to-a-greener-planet-while-enjoying-the-benefits-of-responsible-waste-management-97V {
+  max-width: 49.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-52X .group-213-8k7 {
+  width: 100%;
+  height: 13.2rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.0799999982);
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX {
+  box-sizing: border-box;
+  padding: 8.201rem 12.1rem 9.5rem 15.009rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .auto-group-fczv-eM5 {
+  margin: 0rem 80.8rem 2.1rem 0rem;
+  width: calc(100% - 80.8rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .auto-group-fczv-eM5 .bin-mRh {
+  margin: 0rem 3.409rem 0.101rem 0rem;
+  width: 3.9826rem;
+  height: 6.5982rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .auto-group-fczv-eM5 .select-your-waste-type--sUj {
+  display: flex;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .our-user-friendly-platform-allows-you-to-categorize-your-waste-easily-whether-its-recyclables-electronic-waste-or-household-items-weve-got-you-covered-nLo {
+  margin: 0rem 0rem 5.901rem 7.391rem;
+  max-width: 109.6rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .auto-group-uxbm-c4w {
+  margin: 0rem 88.4rem 2.1rem 0rem;
+  width: calc(100% - 88.4rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .auto-group-uxbm-c4w .bin-vLX {
+  margin: 0rem 3.409rem 0.101rem 0rem;
+  width: 3.9826rem;
+  height: 6.5982rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .auto-group-uxbm-c4w .schedule-a-pickup--pgo {
+  display: flex;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .with-just-a-few-clicks-schedule-a-pickup-at-your-convenience-our-efficient-and-reliable-team-will-be-at-your-doorstep-to-collect-the-waste-ensuring-a-hassle-free-experience-7vo {
+  margin: 0rem 0rem 5.901rem 7.391rem;
+  max-width: 119.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .auto-group-f4bh-KX5 {
+  margin: 0rem 86.5rem 2rem 0rem;
+  width: calc(100% - 86.5rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .auto-group-f4bh-KX5 .bin-eZM {
+  margin: 0rem 3.409rem 0.301rem 0rem;
+  width: 3.9826rem;
+  height: 6.5982rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .auto-group-f4bh-KX5 .earn-cash-rewards--NVM {
+  display: flex;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-c4vd-QxX .yes-you-read-that-right-we-believe-in-rewarding-our-users-for-their-commitment-to-waste-disposal-earn-cash-rewards-for-responsibly-disposing-of-your-waste-through-our-platform-J87 {
+  margin-left: 7.3914rem;
+  max-width: 115.3rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-52X .group-214-wRy {
+  width: 100%;
+  height: 13.2rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.0799999982);
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 {
+  box-sizing: border-box;
+  padding: 2.4rem 12.4rem 11.1rem 15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF {
+  margin: 0rem 1.9rem 0.1rem 0rem;
+  max-width: 73.7rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-0 {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-2 {}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-3 {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-4 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-5 {}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-6 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-7 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-8 {}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-9 {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-10 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF .convenience-we-understand-the-importance-of-convenience-in-your-busy-life-thats-why-weve-designed-a-platform-that-simplifies-waste-disposal-from-start-to-finish-environmental-impact-by-choosing-eco-clean-waste-management-youre-contributing-to-a-healthier-planet-we-ensure-that-your-waste-is-disposed-of-responsibly-and-recycled-whenever-possible-cash-incentives-we-value-your-efforts-in-waste-management-receive-cash-rewards-for-your-commitment-to-a-cleaner-environment-HeF-sub-11 {}
+
+.about-us-52X .auto-group-2fzo-Rc3 .auto-group-5p8b-wKV .image-23-YXZ {
+  width: 50.6rem;
+  height: 48.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 70rem;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .our-commitment-to-sustainability-sJw {
+  margin: 0rem 71rem 3.9rem 0rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .at-eco-clean-waste-management-sustainability-is-not-just-a-buzzword-its-a-way-of-life-we-are-committed-to-continually-exploring-eco-friendly-solutions-minimizing-our-carbon-footprint-and-promoting-a-circular-economy-join-us-in-our-journey-towards-a-greener-and-cleaner-world-lets-make-waste-disposal-not-just-a-responsibility-but-a-rewarding-experience-thank-you-for-choosing-eco-clean-waste-management-where-waste-disposal-meets-sustainability-and-cash-incentives-m9R {
+  margin-right: 0.4rem;
+  max-width: 125.8rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .at-eco-clean-waste-management-sustainability-is-not-just-a-buzzword-its-a-way-of-life-we-are-committed-to-continually-exploring-eco-friendly-solutions-minimizing-our-carbon-footprint-and-promoting-a-circular-economy-join-us-in-our-journey-towards-a-greener-and-cleaner-world-lets-make-waste-disposal-not-just-a-responsibility-but-a-rewarding-experience-thank-you-for-choosing-eco-clean-waste-management-where-waste-disposal-meets-sustainability-and-cash-incentives-m9R .at-eco-clean-waste-management-sustainability-is-not-just-a-buzzword-its-a-way-of-life-we-are-committed-to-continually-exploring-eco-friendly-solutions-minimizing-our-carbon-footprint-and-promoting-a-circular-economy-join-us-in-our-journey-towards-a-greener-and-cleaner-world-lets-make-waste-disposal-not-just-a-responsibility-but-a-rewarding-experience-thank-you-for-choosing-eco-clean-waste-management-where-waste-disposal-meets-sustainability-and-cash-incentives-m9R-sub-0 {}
+
+.about-us-52X .auto-group-2fzo-Rc3 .at-eco-clean-waste-management-sustainability-is-not-just-a-buzzword-its-a-way-of-life-we-are-committed-to-continually-exploring-eco-friendly-solutions-minimizing-our-carbon-footprint-and-promoting-a-circular-economy-join-us-in-our-journey-towards-a-greener-and-cleaner-world-lets-make-waste-disposal-not-just-a-responsibility-but-a-rewarding-experience-thank-you-for-choosing-eco-clean-waste-management-where-waste-disposal-meets-sustainability-and-cash-incentives-m9R .at-eco-clean-waste-management-sustainability-is-not-just-a-buzzword-its-a-way-of-life-we-are-committed-to-continually-exploring-eco-friendly-solutions-minimizing-our-carbon-footprint-and-promoting-a-circular-economy-join-us-in-our-journey-towards-a-greener-and-cleaner-world-lets-make-waste-disposal-not-just-a-responsibility-but-a-rewarding-experience-thank-you-for-choosing-eco-clean-waste-management-where-waste-disposal-meets-sustainability-and-cash-incentives-m9R-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .at-eco-clean-waste-management-sustainability-is-not-just-a-buzzword-its-a-way-of-life-we-are-committed-to-continually-exploring-eco-friendly-solutions-minimizing-our-carbon-footprint-and-promoting-a-circular-economy-join-us-in-our-journey-towards-a-greener-and-cleaner-world-lets-make-waste-disposal-not-just-a-responsibility-but-a-rewarding-experience-thank-you-for-choosing-eco-clean-waste-management-where-waste-disposal-meets-sustainability-and-cash-incentives-m9R .at-eco-clean-waste-management-sustainability-is-not-just-a-buzzword-its-a-way-of-life-we-are-committed-to-continually-exploring-eco-friendly-solutions-minimizing-our-carbon-footprint-and-promoting-a-circular-economy-join-us-in-our-journey-towards-a-greener-and-cleaner-world-lets-make-waste-disposal-not-just-a-responsibility-but-a-rewarding-experience-thank-you-for-choosing-eco-clean-waste-management-where-waste-disposal-meets-sustainability-and-cash-incentives-m9R-sub-2 {}
+
+.about-us-52X .auto-group-2fzo-Rc3 .at-eco-clean-waste-management-sustainability-is-not-just-a-buzzword-its-a-way-of-life-we-are-committed-to-continually-exploring-eco-friendly-solutions-minimizing-our-carbon-footprint-and-promoting-a-circular-economy-join-us-in-our-journey-towards-a-greener-and-cleaner-world-lets-make-waste-disposal-not-just-a-responsibility-but-a-rewarding-experience-thank-you-for-choosing-eco-clean-waste-management-where-waste-disposal-meets-sustainability-and-cash-incentives-m9R .at-eco-clean-waste-management-sustainability-is-not-just-a-buzzword-its-a-way-of-life-we-are-committed-to-continually-exploring-eco-friendly-solutions-minimizing-our-carbon-footprint-and-promoting-a-circular-economy-join-us-in-our-journey-towards-a-greener-and-cleaner-world-lets-make-waste-disposal-not-just-a-responsibility-but-a-rewarding-experience-thank-you-for-choosing-eco-clean-waste-management-where-waste-disposal-meets-sustainability-and-cash-incentives-m9R-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-52X .auto-group-2fzo-Rc3 .at-eco-clean-waste-management-sustainability-is-not-just-a-buzzword-its-a-way-of-life-we-are-committed-to-continually-exploring-eco-friendly-solutions-minimizing-our-carbon-footprint-and-promoting-a-circular-economy-join-us-in-our-journey-towards-a-greener-and-cleaner-world-lets-make-waste-disposal-not-just-a-responsibility-but-a-rewarding-experience-thank-you-for-choosing-eco-clean-waste-management-where-waste-disposal-meets-sustainability-and-cash-incentives-m9R .at-eco-clean-waste-management-sustainability-is-not-just-a-buzzword-its-a-way-of-life-we-are-committed-to-continually-exploring-eco-friendly-solutions-minimizing-our-carbon-footprint-and-promoting-a-circular-economy-join-us-in-our-journey-towards-a-greener-and-cleaner-world-lets-make-waste-disposal-not-just-a-responsibility-but-a-rewarding-experience-thank-you-for-choosing-eco-clean-waste-management-where-waste-disposal-meets-sustainability-and-cash-incentives-m9R-sub-4 {}
+
+.about-us-52X .footer-hDR {
+  width: 100%;
+  height: 26.6094rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.about-us-52X .footer-hDR .rectangle-3-poq {
+  width: 153.6rem;
+  height: 24.9998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #222222;
+}
+
+.about-us-52X .footer-hDR .scrap-symphony-sanctuary-your-premier-destination-for-trading-scrap-materials-and-a-platform-to-donate-and-manage-waste-responsibly-embrace-a-circular-economy-contribute-to-charitable-causes-by-donating-reusable-items-and-explore-green-solutions-with-our-community-of-startups-and-entrepreneurs-for-a-sustainable-future-yAw {
+  width: 43.7rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 4.8992rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-52X .footer-hDR .frame-35-MSP {
+  width: 7.8rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 117.6rem;
+  top: 0.993rem;
+}
+
+.about-us-52X .footer-hDR .frame-35-MSP .pages-Umu {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 2.25;
+  letter-spacing: 0.012rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.about-us-52X .footer-hDR .frame-35-MSP .frame-39-zkF {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-us-52X .footer-hDR .frame-35-MSP .frame-39-zkF .home-9d9 {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-52X .footer-hDR .frame-35-MSP .frame-39-zkF .about-us-UQX {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-52X .footer-hDR .frame-35-MSP .frame-39-zkF .overview-CrK {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-52X .footer-hDR .frame-35-MSP .frame-39-zkF .schedule-pickup-wJ7 {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-52X .footer-hDR .social-media-fju {
+  width: 17.362rem;
+  height: 3rem;
+  position: absolute;
+  left: 13.018rem;
+  top: 15.1109rem;
+  display: flex;
+  align-items: center;
+}
+
+.about-us-52X .footer-hDR .social-media-fju .vector-b7m {
+  margin: 0rem 4.035rem 0rem 0rem;
+  width: 2.9268rem;
+  height: 2.9268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-52X .footer-hDR .social-media-fju .vector-X1R {
+  margin-right: 4.0344rem;
+  width: 3.2195rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-52X .footer-hDR .social-media-fju .vector-s5H {
+  margin-top: 0.0013rem;
+  width: 3.1463rem;
+  height: 2.6341rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-52X .footer-hDR .rectangle-12-mgT {
+  width: 153.6rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0;
+  top: 20.7rem;
+  background-color: #555555;
+}
+
+.about-us-52X .footer-hDR .frame-40-W8F {
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  width: 29.8667rem;
+  height: 5.3094rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 21.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.about-us-52X .footer-hDR .frame-40-W8F .mask-group-p8w {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-52X .footer-hDR .frame-40-W8F .mask-group-M8s {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-52X .footer-hDR .scrap-symphony-sanctuary-all-rights-reserved-5qZ {
+  width: 27.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 114.7rem;
+  top: 21.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.about-us-52X .footer-hDR .terms-condition-privacy-policy-NJs {
+  width: 18.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 21.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.about-us-52X .footer-hDR .contact-us-sFd {
+  width: 5.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 117.6rem;
+  top: 18rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}

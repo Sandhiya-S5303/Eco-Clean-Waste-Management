@@ -1,0 +1,812 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 153.6rem;
+}
+
+.overview-Dwd {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.overview-Dwd .auto-group-gqrf-MY3 {
+  box-sizing: border-box;
+  padding: 3.1rem 6.85rem 2.2rem 3.5rem;
+  width: 100%;
+  height: 15.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8899999857);
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-gqrf-MY3 .auto-group-f855-FtK {
+  margin-right: 34.55rem;
+  width: 46.9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-gqrf-MY3 .auto-group-f855-FtK .auto-group-9uej-C2s {
+  margin: 0rem 25.35rem 1.2rem 0rem;
+  width: calc(100% - 25.35rem);
+  display: flex;
+  align-items: center;
+}
+
+.overview-Dwd .auto-group-gqrf-MY3 .auto-group-f855-FtK .auto-group-9uej-C2s .scrap3-removebg-preview-75-vUf {
+  margin-right: 0.2033rem;
+  width: 5.1467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-gqrf-MY3 .auto-group-f855-FtK .auto-group-9uej-C2s .scrap-symphony-sanctuary-eQf {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-gqrf-MY3 .auto-group-f855-FtK .eco-clean-waste-management-96X {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.overview-Dwd .auto-group-gqrf-MY3 .home-about-us-overview-schedule-pickup-contact-us-FvF {
+  margin-bottom: 0.9rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-gqrf-MY3 .home-about-us-overview-schedule-pickup-contact-us-FvF .home-about-us-overview-schedule-pickup-contact-us-FvF-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+a {
+  text-decoration: none;
+}
+
+.overview-Dwd .auto-group-gqrf-MY3 .home-about-us-overview-schedule-pickup-contact-us-FvF .home-about-us-overview-schedule-pickup-contact-us-FvF-sub-1 {}
+
+.overview-Dwd .auto-group-hkmm-AQw {
+  width: 100%;
+  height: 13.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-hkmm-AQw .overview-Wzb {
+  width: 17.4rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 69.1rem;
+  top: 2.5rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.overview-Dwd .auto-group-hkmm-AQw .rectangle-940-RLs {
+  width: 153.6rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.0799999982);
+}
+
+.overview-Dwd .auto-group-dtf5-MVR {
+  box-sizing: border-box;
+  padding: 2.7rem 14rem 13.6rem 14.3rem;
+  width: 100%;
+  row-gap: 13.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-mexr-GMV {
+  margin: 0rem 2.5rem 0rem 1.1rem;
+  width: calc(100% - 3.6rem);
+  height: 70.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-mexr-GMV .auto-group-96jj-BDZ {
+  margin-right: 12.1rem;
+  box-sizing: border-box;
+  padding: 3rem 2.6rem 3.6rem 4.1rem;
+  width: 54.8rem;
+  height: 100%;
+  background-color: rgba(217, 217, 217, 0.4399999976);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-mexr-GMV .auto-group-96jj-BDZ .image-30-5pj {
+  margin-bottom: 1.3rem;
+  width: 46.7rem;
+  height: 31.1rem;
+  position: relative;
+  background-size: 102.073% 175.311%;
+  background-position: -0.4167rem -23.1037rem;
+  background-image: url('../assets/image-30.png');
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-mexr-GMV .auto-group-96jj-BDZ .organic-waste-NYw {
+  margin-bottom: 1.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4825;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-mexr-GMV .auto-group-96jj-BDZ .organic-waste-consists-of-biodegradable-materials-like-food-scraps-kitchen-waste-and-plant-based-items-rich-in-carbon-it-decomposes-naturally-through-composting-or-other-biological-processes-composting-a-widely-used-method-turns-organic-waste-into-nutrient-rich-compost-for-soil-improvement-proper-management-of-organic-waste-is-essential-for-reducing-landfill-volumes-and-lessening-environmental-impact-V7m {
+  max-width: 48.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-mexr-GMV .auto-group-q2cp-EUf {
+  box-sizing: border-box;
+  padding: 3rem 4.1rem 9.6rem 4.1rem;
+  width: 54.8rem;
+  height: 100%;
+  background-color: rgba(217, 217, 217, 0.4399999976);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-mexr-GMV .auto-group-q2cp-EUf .image-31-A7R {
+  margin-bottom: 1.3rem;
+  width: 46.5rem;
+  height: 31.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-mexr-GMV .auto-group-q2cp-EUf .e-waste-VvP {
+  margin-bottom: 1.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4825;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-mexr-GMV .auto-group-q2cp-EUf .e-waste-refers-to-discarded-electronic-devices-like-computers-phones-and-appliances-due-to-their-toxic-components-proper-disposal-and-recycling-are-vital-to-prevent-environmental-harm-and-promote-resource-reuse-specialized-recycling-programs-exist-in-many-regions-to-manage-e-waste-responsibly-d11 {
+  max-width: 46.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-ctyb-pLP {
+  margin: 0rem 2.5rem 0rem 1.1rem;
+  width: calc(100% - 3.6rem);
+  height: 70.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-ctyb-pLP .auto-group-ajm1-jTM {
+  margin-right: 12.1rem;
+  box-sizing: border-box;
+  padding: 3rem 4.2rem 6.5rem 4.1rem;
+  width: 54.8rem;
+  height: 100%;
+  background-color: rgba(217, 217, 217, 0.4399999976);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-ctyb-pLP .auto-group-ajm1-jTM .image-33-eKR {
+  margin-bottom: 1.2rem;
+  width: 46.5rem;
+  height: 31.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-ctyb-pLP .auto-group-ajm1-jTM .textile-waste-nRd {
+  margin-bottom: 1.3rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4825;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-ctyb-pLP .auto-group-ajm1-jTM .textile-waste-comprises-discarded-clothing-and-fabrics-rapid-turnover-in-the-fashion-industry-contributes-to-its-environmental-impact-responsible-disposal-through-recycling-and-donation-is-crucial-support-for-sustainable-fashion-practices-helps-mitigate-textile-waste-promoting-a-more-eco-friendly-and-ethical-approach-to-fashion-W6j {
+  max-width: 46.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-ctyb-pLP .auto-group-igw3-sLb {
+  box-sizing: border-box;
+  padding: 3rem 2.7rem 1.2rem 4.1rem;
+  width: 54.8rem;
+  height: 100%;
+  background-color: rgba(217, 217, 217, 0.4399999976);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-ctyb-pLP .auto-group-igw3-sLb .image-32-b1h {
+  margin-bottom: 1.2rem;
+  width: 47rem;
+  height: 31.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-ctyb-pLP .auto-group-igw3-sLb .hazardous-waste-XR9 {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4825;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-ctyb-pLP .auto-group-igw3-sLb .hazardous-waste-consists-of-materials-that-pose-a-threat-to-human-health-or-the-environment-due-to-their-toxicity-flammability-corrosiveness-or-other-harmful-characteristicsproper-disposal-is-crucial-to-prevent-contamination-and-ensure-public-safety-stringent-regulations-specialized-facilities-are-in-place-globally-to-manage-hazardous-waste-safelythese-measures-aim-to-minimize-its-harmful-impact-on-ecosystems-and-communities-qwd {
+  max-width: 48rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-9jxx-o1H {
+  margin: 0rem 2.5rem 0rem 1.1rem;
+  width: calc(100% - 3.6rem);
+  height: 70.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-9jxx-o1H .auto-group-epyy-vLo {
+  margin-right: 12.1rem;
+  box-sizing: border-box;
+  padding: 3.7rem 3.8rem 4.3rem 4.1rem;
+  width: 54.8rem;
+  height: 100%;
+  row-gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(217, 217, 217, 0.4399999976);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-9jxx-o1H .auto-group-epyy-vLo .image-34-2ej {
+  width: 46.5rem;
+  height: 31.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-9jxx-o1H .auto-group-epyy-vLo .bulk-or-bulky-waste-aAT {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4825;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-9jxx-o1H .auto-group-epyy-vLo .bulk-or-bulky-waste-comprises-oversized-household-items-like-furniture-and-large-appliances-unsuitable-for-standard-waste-containers-special-handling-is-often-needed-for-their-proper-disposal-with-many-communities-offering-designated-pickup-or-drop-off-services-responsible-management-of-bulky-waste-is-vital-to-alleviate-pressure-on-landfills-and-promote-eco-friendly-disposal-practices-hVy {
+  max-width: 46.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-9jxx-o1H .auto-group-rxqh-fLK {
+  box-sizing: border-box;
+  padding: 3.7rem 0.8rem 4.3rem 3.6rem;
+  height: 100%;
+  row-gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(217, 217, 217, 0.4399999976);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-9jxx-o1H .auto-group-rxqh-fLK .image-35-PGK {
+  width: 47.9rem;
+  height: 31.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-9jxx-o1H .auto-group-rxqh-fLK .bio-medical-waste-j5H {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4825;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-9jxx-o1H .auto-group-rxqh-fLK .biomedical-waste-refers-to-materials-that-pose-a-potential-threat-to-public-health-and-the-environment-due-to-their-infectious-or-hazardous-natureit-encompasses-items-like-used-needles-syringes-expired-medicines-and-contaminated-materials-from-medical-proceduresproper-disposal-regulation-of-bio-medical-waste-safeguard-public-health-and-the-environment-minimizing-infection-risks-for-healthcare-workers-and-communities-3bm {
+  max-width: 50.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-jb99-nSs {
+  width: 100%;
+  height: 70.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-jb99-nSs .auto-group-qht5-LUP {
+  margin-right: 13.2rem;
+  box-sizing: border-box;
+  padding: 3.7rem 1.5rem 1.4rem 3.9rem;
+  width: 54.8rem;
+  height: 100%;
+  background-color: rgba(217, 217, 217, 0.4399999976);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-jb99-nSs .auto-group-qht5-LUP .image-36-FLT {
+  margin-bottom: 0.5rem;
+  width: 46.9rem;
+  height: 31.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-jb99-nSs .auto-group-qht5-LUP .other-waste-Bju {
+  margin: 0rem 0rem 0.4rem 0.2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4825;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-jb99-nSs .auto-group-qht5-LUP .our-waste-management-services-extend-beyond-organic-hazardous-and-electronic-waste-we-efficiently-handle-metal-waste-glass-waste-paper-waste-and-plastic-waste-ensuring-responsible-disposal-and-recycling-additionally-construction-and-demolition-waste-from-various-projects-is-managed-to-minimize-environmental-impact-our-commitment-to-sustainability-encompasses-a-diverse-range-of-materials-promoting-eco-friendly-practices-for-a-cleaner-and-greener-future-hiF {
+  margin-left: 0.2rem;
+  max-width: 49.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-jb99-nSs .auto-group-vd19-dEX {
+  margin: 15.4rem 0rem 20.2rem 0rem;
+  width: 57.3rem;
+  height: calc(100% - 35.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-jb99-nSs .auto-group-vd19-dEX .arrange-waste-collection-by-selecting-your-preferred-schedule-via-the-schedule-pickup-button-at-your-location-choose-the-time-and-date-then-click-to-confirm-Lej {
+  margin-bottom: 4.2rem;
+  max-width: 57.3rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-jb99-nSs .auto-group-vd19-dEX .arrange-waste-collection-by-selecting-your-preferred-schedule-via-the-schedule-pickup-button-at-your-location-choose-the-time-and-date-then-click-to-confirm-Lej .arrange-waste-collection-by-selecting-your-preferred-schedule-via-the-schedule-pickup-button-at-your-location-choose-the-time-and-date-then-click-to-confirm-Lej-sub-0 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-jb99-nSs .auto-group-vd19-dEX .arrange-waste-collection-by-selecting-your-preferred-schedule-via-the-schedule-pickup-button-at-your-location-choose-the-time-and-date-then-click-to-confirm-Lej .arrange-waste-collection-by-selecting-your-preferred-schedule-via-the-schedule-pickup-button-at-your-location-choose-the-time-and-date-then-click-to-confirm-Lej-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-jb99-nSs .auto-group-vd19-dEX .arrange-waste-collection-by-selecting-your-preferred-schedule-via-the-schedule-pickup-button-at-your-location-choose-the-time-and-date-then-click-to-confirm-Lej .arrange-waste-collection-by-selecting-your-preferred-schedule-via-the-schedule-pickup-button-at-your-location-choose-the-time-and-date-then-click-to-confirm-Lej-sub-2 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.overview-Dwd .auto-group-dtf5-MVR .auto-group-jb99-nSs .auto-group-vd19-dEX .button-ruu {
+  margin: 0rem 15.8rem 0rem 15.9rem;
+  width: calc(100% - 31.7rem);
+  height: 5.9rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #000000;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.button-ruu a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.overview-Dwd .footer-gtw {
+  box-sizing: border-box;
+  padding-top: 0.993rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #222222;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu {
+  margin: 0rem 28.2rem 0.5rem 12.2rem;
+  width: calc(100% - 40.4rem);
+  height: 19.207rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-putm-xLf {
+  margin: 3.906rem 61.7rem 2.089rem 0rem;
+  height: calc(100% - 5.9953rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-putm-xLf .scrap-symphony-sanctuary-your-premier-destination-for-trading-scrap-materials-and-a-platform-to-donate-and-manage-waste-responsibly-embrace-a-circular-economy-contribute-to-charitable-causes-by-donating-reusable-items-and-explore-green-solutions-with-our-community-of-startups-and-entrepreneurs-for-a-sustainable-future-H83 {
+  margin-bottom: 1.4117rem;
+  max-width: 43.7rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-putm-xLf .social-media-Fyy {
+  margin-left: 0.818rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-putm-xLf .social-media-Fyy .vector-bH9 {
+  margin: 0rem 4.035rem 0rem 0rem;
+  width: 2.9268rem;
+  height: 2.9268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-putm-xLf .social-media-Fyy .vector-7WP {
+  margin-right: 4.0344rem;
+  width: 3.2195rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-putm-xLf .social-media-Fyy .vector-FsV {
+  margin-top: 0.0013rem;
+  width: 3.1463rem;
+  height: 2.6341rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-n1mh-C23 {
+  width: 7.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-n1mh-C23 .frame-35-jnf {
+  margin-bottom: 0.507rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-n1mh-C23 .frame-35-jnf .pages-67R {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 2.25;
+  letter-spacing: 0.012rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-n1mh-C23 .frame-35-jnf .frame-39-CgF {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-n1mh-C23 .frame-35-jnf .frame-39-CgF .home-9bV {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-n1mh-C23 .frame-35-jnf .frame-39-CgF .about-us-gLX {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-n1mh-C23 .frame-35-jnf .frame-39-CgF .overview-cEB {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-n1mh-C23 .frame-35-jnf .frame-39-CgF .schedule-pickup-jZh {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pb1y-2hu .auto-group-n1mh-C23 .contact-us-U1V {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pmdh-Cy5 {
+  box-sizing: border-box;
+  padding: 0.6rem 11.5rem 0rem 14.1rem;
+  width: 100%;
+  height: 5.9094rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #555555;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pmdh-Cy5 .frame-40-LJb {
+  margin-right: 21.9333rem;
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pmdh-Cy5 .frame-40-LJb .mask-group-5my {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pmdh-Cy5 .frame-40-LJb .mask-group-DtB {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pmdh-Cy5 .terms-condition-privacy-policy-AoR {
+  margin: 0.1rem 30.3rem 0rem 0rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.overview-Dwd .footer-gtw .auto-group-pmdh-Cy5 .scrap-symphony-sanctuary-all-rights-reserved-shq {
+  margin-top: 0.1rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

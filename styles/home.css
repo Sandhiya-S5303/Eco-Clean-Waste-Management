@@ -1,0 +1,1157 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 153.6rem;
+}
+
+.home-kym {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.home-kym .auto-group-nnis-xa3 {
+  margin-bottom: 8rem;
+  box-sizing: border-box;
+  padding: 3.1rem 6.85rem 2.2rem 3.5rem;
+  width: 100%;
+  height: 15.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8899999857);
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-nnis-xa3 .auto-group-x3pu-BLK {
+  margin-right: 34.55rem;
+  width: 46.9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-nnis-xa3 .auto-group-x3pu-BLK .auto-group-bptm-uXD {
+  margin: 0rem 25.35rem 1.2rem 0rem;
+  width: calc(100% - 25.35rem);
+  display: flex;
+  align-items: center;
+}
+
+.home-kym .auto-group-nnis-xa3 .auto-group-x3pu-BLK .auto-group-bptm-uXD .scrap3-removebg-preview-75-pPH {
+  margin-right: 0.2033rem;
+  width: 5.1467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-nnis-xa3 .auto-group-x3pu-BLK .auto-group-bptm-uXD .scrap-symphony-sanctuary-vBR {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-nnis-xa3 .auto-group-x3pu-BLK .eco-clean-waste-management-yvP {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-kym .auto-group-nnis-xa3 .home-about-us-overview-schedule-pickup-contact-us-tnT {
+  margin-bottom: 0.9rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-nnis-xa3 .home-about-us-overview-schedule-pickup-contact-us-tnT .home-about-us-overview-schedule-pickup-contact-us-tnT-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+a {
+  text-decoration: none;
+}
+
+.home-kym .auto-group-nnis-xa3 .home-about-us-overview-schedule-pickup-contact-us-tnT .home-about-us-overview-schedule-pickup-contact-us-tnT-sub-1 {}
+
+.home-kym .welcome-to-eco-clean-waste-management-pi3 {
+  margin: 0rem 42rem 0.5rem 0rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-qla3-HrX {
+  margin: 0rem 13.5rem 10.9rem 13.3rem;
+  width: calc(100% - 26.8rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-qla3-HrX .auto-group-c2yf-ops {
+  margin-right: 1.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-qla3-HrX .auto-group-c2yf-ops .turn-your-trash-into-cash-ZJF {
+  margin-bottom: 3.9rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-qla3-HrX .auto-group-c2yf-ops .welcome-to-eco-clean-waste-management-where-waste-disposal-meets-convenience-and-sustainability-our-platform-simplifies-the-process-of-responsible-waste-management-allowing-users-to-easily-categorize-their-waste-schedule-pickups-at-their-convenience-and-earn-cash-rewards-in-return-at-your-company-name-we-are-committed-to-creating-a-cleaner-environment-by-incentivizing-and-rewarding-individuals-and-businesses-for-their-dedication-to-waste-disposal-our-user-friendly-approach-combined-with-a-focus-on-environmental-impact-and-cash-incentives-sets-us-apart-as-your-trusted-partner-in-promoting-a-greener-more-sustainable-world-join-us-on-this-journey-towards-a-cleaner-future-where-waste-disposal-is-not-just-a-responsibility-but-a-rewarding-experience-TPd {
+  max-width: 70.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-qla3-HrX .auto-group-c2yf-ops .welcome-to-eco-clean-waste-management-where-waste-disposal-meets-convenience-and-sustainability-our-platform-simplifies-the-process-of-responsible-waste-management-allowing-users-to-easily-categorize-their-waste-schedule-pickups-at-their-convenience-and-earn-cash-rewards-in-return-at-your-company-name-we-are-committed-to-creating-a-cleaner-environment-by-incentivizing-and-rewarding-individuals-and-businesses-for-their-dedication-to-waste-disposal-our-user-friendly-approach-combined-with-a-focus-on-environmental-impact-and-cash-incentives-sets-us-apart-as-your-trusted-partner-in-promoting-a-greener-more-sustainable-world-join-us-on-this-journey-towards-a-cleaner-future-where-waste-disposal-is-not-just-a-responsibility-but-a-rewarding-experience-TPd .welcome-to-eco-clean-waste-management-where-waste-disposal-meets-convenience-and-sustainability-our-platform-simplifies-the-process-of-responsible-waste-management-allowing-users-to-easily-categorize-their-waste-schedule-pickups-at-their-convenience-and-earn-cash-rewards-in-return-at-your-company-name-we-are-committed-to-creating-a-cleaner-environment-by-incentivizing-and-rewarding-individuals-and-businesses-for-their-dedication-to-waste-disposal-our-user-friendly-approach-combined-with-a-focus-on-environmental-impact-and-cash-incentives-sets-us-apart-as-your-trusted-partner-in-promoting-a-greener-more-sustainable-world-join-us-on-this-journey-towards-a-cleaner-future-where-waste-disposal-is-not-just-a-responsibility-but-a-rewarding-experience-TPd-sub-0 {}
+
+.home-kym .auto-group-qla3-HrX .auto-group-c2yf-ops .welcome-to-eco-clean-waste-management-where-waste-disposal-meets-convenience-and-sustainability-our-platform-simplifies-the-process-of-responsible-waste-management-allowing-users-to-easily-categorize-their-waste-schedule-pickups-at-their-convenience-and-earn-cash-rewards-in-return-at-your-company-name-we-are-committed-to-creating-a-cleaner-environment-by-incentivizing-and-rewarding-individuals-and-businesses-for-their-dedication-to-waste-disposal-our-user-friendly-approach-combined-with-a-focus-on-environmental-impact-and-cash-incentives-sets-us-apart-as-your-trusted-partner-in-promoting-a-greener-more-sustainable-world-join-us-on-this-journey-towards-a-cleaner-future-where-waste-disposal-is-not-just-a-responsibility-but-a-rewarding-experience-TPd .welcome-to-eco-clean-waste-management-where-waste-disposal-meets-convenience-and-sustainability-our-platform-simplifies-the-process-of-responsible-waste-management-allowing-users-to-easily-categorize-their-waste-schedule-pickups-at-their-convenience-and-earn-cash-rewards-in-return-at-your-company-name-we-are-committed-to-creating-a-cleaner-environment-by-incentivizing-and-rewarding-individuals-and-businesses-for-their-dedication-to-waste-disposal-our-user-friendly-approach-combined-with-a-focus-on-environmental-impact-and-cash-incentives-sets-us-apart-as-your-trusted-partner-in-promoting-a-greener-more-sustainable-world-join-us-on-this-journey-towards-a-cleaner-future-where-waste-disposal-is-not-just-a-responsibility-but-a-rewarding-experience-TPd-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-qla3-HrX .auto-group-c2yf-ops .welcome-to-eco-clean-waste-management-where-waste-disposal-meets-convenience-and-sustainability-our-platform-simplifies-the-process-of-responsible-waste-management-allowing-users-to-easily-categorize-their-waste-schedule-pickups-at-their-convenience-and-earn-cash-rewards-in-return-at-your-company-name-we-are-committed-to-creating-a-cleaner-environment-by-incentivizing-and-rewarding-individuals-and-businesses-for-their-dedication-to-waste-disposal-our-user-friendly-approach-combined-with-a-focus-on-environmental-impact-and-cash-incentives-sets-us-apart-as-your-trusted-partner-in-promoting-a-greener-more-sustainable-world-join-us-on-this-journey-towards-a-cleaner-future-where-waste-disposal-is-not-just-a-responsibility-but-a-rewarding-experience-TPd .welcome-to-eco-clean-waste-management-where-waste-disposal-meets-convenience-and-sustainability-our-platform-simplifies-the-process-of-responsible-waste-management-allowing-users-to-easily-categorize-their-waste-schedule-pickups-at-their-convenience-and-earn-cash-rewards-in-return-at-your-company-name-we-are-committed-to-creating-a-cleaner-environment-by-incentivizing-and-rewarding-individuals-and-businesses-for-their-dedication-to-waste-disposal-our-user-friendly-approach-combined-with-a-focus-on-environmental-impact-and-cash-incentives-sets-us-apart-as-your-trusted-partner-in-promoting-a-greener-more-sustainable-world-join-us-on-this-journey-towards-a-cleaner-future-where-waste-disposal-is-not-just-a-responsibility-but-a-rewarding-experience-TPd-sub-2 {}
+
+.home-kym .auto-group-qla3-HrX .image-16-Sgo {
+  margin-top: 0.6rem;
+  width: 54.4rem;
+  height: 52.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD {
+  box-sizing: border-box;
+  padding: 3.8rem 13.5rem 3.8rem 13.3rem;
+  width: 100%;
+  height: 65.5rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.1400000006);
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD .auto-group-disj-VQB {
+  margin: 14.6rem 11.3rem 5rem 0rem;
+  box-sizing: border-box;
+  padding: 3.6rem 3.3rem 3.05rem 3.3rem;
+  width: 35.3rem;
+  height: calc(100% - 19.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7fbff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD .auto-group-disj-VQB .image-18-yq9 {
+  margin-bottom: 2.75rem;
+  width: 28.7rem;
+  height: 25.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD .auto-group-disj-VQB .schedule-pickup-iXq {
+  margin-right: 0.5rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD .auto-group-3c2k-cNK {
+  margin: 0rem 9.4rem 5rem 0rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD .auto-group-3c2k-cNK .how-it-works--YWs {
+  margin-bottom: 7.4rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD .auto-group-3c2k-cNK .auto-group-5voh-GSs {
+  margin-right: 0.2rem;
+  box-sizing: border-box;
+  padding: 3.6rem 2.3rem 3.069rem 2.9rem;
+  width: 35.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7fbff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD .auto-group-3c2k-cNK .auto-group-5voh-GSs .image-19-ys5 {
+  margin-bottom: 2.7311rem;
+  width: 30.1rem;
+  height: 25.6rem;
+  position: relative;
+  background-size: 147.503% 100%;
+  background-position: -2.7257rem 0rem;
+  background-image: url('../assets/image-19.png');
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD .auto-group-3c2k-cNK .auto-group-5voh-GSs .pick-at-your-address-4Nj {
+  margin-left: 0.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD .auto-group-bsgf-wSX {
+  margin: 14.6rem 0rem 5rem 0rem;
+  box-sizing: border-box;
+  padding: 3.6rem 2.4rem 3.05rem 2.4rem;
+  width: 35.3rem;
+  height: calc(100% - 19.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7fbff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD .auto-group-bsgf-wSX .image-21-R6o {
+  margin-bottom: 2.75rem;
+  width: 30.5rem;
+  height: 25.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-kym .group-212-aHD .auto-group-bsgf-wSX .receive-payment-kPy {
+  margin-left: 2.6rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 {
+  margin-bottom: 4.4rem;
+  box-sizing: border-box;
+  padding: 5.3rem 4.9rem 8rem 4.3rem;
+  width: 100%;
+  height: 54.4rem;
+  display: flex;
+  column-gap: 3.7rem;
+  align-items: center;
+  background-color: rgba(49, 195, 36, 0.7200000286);
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-qwmm-gwq {
+  margin-top: 11.4rem;
+  box-sizing: border-box;
+  padding: 3.85rem 1.2rem 6.1rem 3.1rem;
+  width: 33.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7fbff;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-qwmm-gwq .zero-waste-eco-friendly-Q79 {
+  margin: 0rem 2.8rem 0.95rem 0rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-qwmm-gwq .we-take-your-waste-to-recyclers-small-business-and-ngos-to-reuse-the-waste-to-promote-sustainability-and-environmental-awareness-hc3 {
+  max-width: 28.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-grdr-wmH {
+  width: 70.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-grdr-wmH .why-us--VXu {
+  margin: 0rem 0rem 4rem 2.8rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.096rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-grdr-wmH .auto-group-ricx-oHh {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-grdr-wmH .auto-group-ricx-oHh .auto-group-ts8x-xAb {
+  margin: 0.4rem 4.6rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 3.75rem 1.6rem 6.2rem 3.8rem;
+  width: 33.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7fbff;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-grdr-wmH .auto-group-ricx-oHh .auto-group-ts8x-xAb .convenience-f51 {
+  margin: 0rem 2.5rem 0.95rem 0rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-grdr-wmH .auto-group-ricx-oHh .auto-group-ts8x-xAb .doorstep-pickup-according-to-users-convenient-date-time-just-do-segregartion-and-leave-everything-elso-on-us-JGP {
+  max-width: 27.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-grdr-wmH .auto-group-ricx-oHh .auto-group-kmwv-9H1 {
+  margin-bottom: 0.4rem;
+  box-sizing: border-box;
+  padding: 4.15rem 1.8rem 5.8rem 3.6rem;
+  width: 33.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7fbff;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-grdr-wmH .auto-group-ricx-oHh .auto-group-kmwv-9H1 .best-rate-ToV {
+  margin: 0rem 1rem 0.95rem 0rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-grdr-wmH .auto-group-ricx-oHh .auto-group-kmwv-9H1 .dontt-sure-whether-making-a-profittable-deal-or-not-try-yourself-by-comparing-our-prices-with-the-local-vendors-nKy {
+  max-width: 27.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-lnwh-SQX {
+  margin-top: 10.8rem;
+  box-sizing: border-box;
+  padding: 4.15rem 0.9rem 5.8rem 3.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7fbff;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-lnwh-SQX .saviours-mSo {
+  margin: 0rem 1rem 0.95rem 0rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-s6yx-C15 .auto-group-lnwh-SQX .we-aim-to-provide-best-experience-to-our-customers-to-gain-thier-trust-and-reliability-we-provide-trained-verified-pickup-staff-V7u {
+  max-width: 28.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-kym .testimonials-vU7 {
+  margin-left: 0.5rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh {
+  box-sizing: border-box;
+  padding: 8.9rem 11.5rem 8.1rem 10.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy {
+  margin-bottom: 8.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-219-VvX {
+  margin: 0.2rem 10.4rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.55rem 2.4rem 2.7rem 2.3rem;
+  width: 60.4rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.1400000006);
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-219-VvX .auto-group-p3g3-C4F {
+  margin: 0rem 1.1rem 0.6rem 0rem;
+  width: 54.6rem;
+  height: 17.35rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-219-VvX .auto-group-p3g3-C4F .item--iYP {
+  width: 2.3rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-219-VvX .auto-group-p3g3-C4F .the-eco-clean-waste-management-team-was-really-professional-and-their-services-the-best-that-i-have-seen-in-my-entire-life-of-20-years-could-not-have-asked-anything-more-simply-awesome--Dk3 {
+  width: 54.2rem;
+  height: 12rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 5.35rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-219-VvX .auto-group-p3g3-C4F .the-eco-clean-waste-management-team-was-really-professional-and-their-services-the-best-that-i-have-seen-in-my-entire-life-of-20-years-could-not-have-asked-anything-more-simply-awesome--Dk3 .the-eco-clean-waste-management-team-was-really-professional-and-their-services-the-best-that-i-have-seen-in-my-entire-life-of-20-years-could-not-have-asked-anything-more-simply-awesome--Dk3-sub-0 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-219-VvX .auto-group-p3g3-C4F .the-eco-clean-waste-management-team-was-really-professional-and-their-services-the-best-that-i-have-seen-in-my-entire-life-of-20-years-could-not-have-asked-anything-more-simply-awesome--Dk3 .the-eco-clean-waste-management-team-was-really-professional-and-their-services-the-best-that-i-have-seen-in-my-entire-life-of-20-years-could-not-have-asked-anything-more-simply-awesome--Dk3-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-219-VvX .auto-group-p3g3-C4F .the-eco-clean-waste-management-team-was-really-professional-and-their-services-the-best-that-i-have-seen-in-my-entire-life-of-20-years-could-not-have-asked-anything-more-simply-awesome--Dk3 .the-eco-clean-waste-management-team-was-really-professional-and-their-services-the-best-that-i-have-seen-in-my-entire-life-of-20-years-could-not-have-asked-anything-more-simply-awesome--Dk3-sub-2 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-219-VvX .anonymous-housemaker-nq5 {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-219-VvX .anonymous-housemaker-nq5 .anonymous-housemaker-nq5-sub-0 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-219-VvX .anonymous-housemaker-nq5 .anonymous-housemaker-nq5-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-219-VvX .anonymous-housemaker-nq5 .anonymous-housemaker-nq5-sub-2 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-220-jNw {
+  margin-bottom: 0.2rem;
+  width: 60.4rem;
+  height: 24.2rem;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.1400000006);
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-220-jNw .item--fnP {
+  width: 2.3rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 0.55rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-220-jNw .was-fed-up-of-our-local-society-kabadiwala-who-did-as-per-his-own-whim-bcoz-of-the-monopoly-tried-eco-clean-waste-management-and-found-the-service-to-be-smooth-transparent-convenient-and-extremely-professional-great-initiative-will-surely-use-again-and-recommend-to-all-kJ3 {
+  width: 57.6rem;
+  height: 15rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-220-jNw .was-fed-up-of-our-local-society-kabadiwala-who-did-as-per-his-own-whim-bcoz-of-the-monopoly-tried-eco-clean-waste-management-and-found-the-service-to-be-smooth-transparent-convenient-and-extremely-professional-great-initiative-will-surely-use-again-and-recommend-to-all-kJ3 .was-fed-up-of-our-local-society-kabadiwala-who-did-as-per-his-own-whim-bcoz-of-the-monopoly-tried-eco-clean-waste-management-and-found-the-service-to-be-smooth-transparent-convenient-and-extremely-professional-great-initiative-will-surely-use-again-and-recommend-to-all-kJ3-sub-0 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-220-jNw .was-fed-up-of-our-local-society-kabadiwala-who-did-as-per-his-own-whim-bcoz-of-the-monopoly-tried-eco-clean-waste-management-and-found-the-service-to-be-smooth-transparent-convenient-and-extremely-professional-great-initiative-will-surely-use-again-and-recommend-to-all-kJ3 .was-fed-up-of-our-local-society-kabadiwala-who-did-as-per-his-own-whim-bcoz-of-the-monopoly-tried-eco-clean-waste-management-and-found-the-service-to-be-smooth-transparent-convenient-and-extremely-professional-great-initiative-will-surely-use-again-and-recommend-to-all-kJ3-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-220-jNw .was-fed-up-of-our-local-society-kabadiwala-who-did-as-per-his-own-whim-bcoz-of-the-monopoly-tried-eco-clean-waste-management-and-found-the-service-to-be-smooth-transparent-convenient-and-extremely-professional-great-initiative-will-surely-use-again-and-recommend-to-all-kJ3 .was-fed-up-of-our-local-society-kabadiwala-who-did-as-per-his-own-whim-bcoz-of-the-monopoly-tried-eco-clean-waste-management-and-found-the-service-to-be-smooth-transparent-convenient-and-extremely-professional-great-initiative-will-surely-use-again-and-recommend-to-all-kJ3-sub-2 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-220-jNw .anonymous-designer-8hu {
+  width: 22.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 18.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-220-jNw .anonymous-designer-8hu .anonymous-designer-8hu-sub-0 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-220-jNw .anonymous-designer-8hu .anonymous-designer-8hu-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  margin-top: 5px;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-a94s-Zmy .group-220-jNw .anonymous-designer-8hu .anonymous-designer-8hu-sub-2 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq {
+  margin-left: 0.2rem;
+  width: calc(100% - 0.2rem);
+  height: 24.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-221-BZh {
+  margin-right: 10.2rem;
+  width: 60.4rem;
+  height: 100%;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.1400000006);
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-221-BZh .item--ukb {
+  width: 2.3rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 0.55rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-221-BZh .it-was-such-a-pleasant-experience-with-eco-clean-waste-management-the-process-was-so-simple-i-just-simply-filled-the-details-online-and-selected-the-date-and-time-for-pickup-the-concerned-person-contacted-me-and-reached-at-the-desired-time-arj {
+  width: 55.3rem;
+  height: 15rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 5.55rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-221-BZh .it-was-such-a-pleasant-experience-with-eco-clean-waste-management-the-process-was-so-simple-i-just-simply-filled-the-details-online-and-selected-the-date-and-time-for-pickup-the-concerned-person-contacted-me-and-reached-at-the-desired-time-arj .it-was-such-a-pleasant-experience-with-eco-clean-waste-management-the-process-was-so-simple-i-just-simply-filled-the-details-online-and-selected-the-date-and-time-for-pickup-the-concerned-person-contacted-me-and-reached-at-the-desired-time-arj-sub-0 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-221-BZh .it-was-such-a-pleasant-experience-with-eco-clean-waste-management-the-process-was-so-simple-i-just-simply-filled-the-details-online-and-selected-the-date-and-time-for-pickup-the-concerned-person-contacted-me-and-reached-at-the-desired-time-arj .it-was-such-a-pleasant-experience-with-eco-clean-waste-management-the-process-was-so-simple-i-just-simply-filled-the-details-online-and-selected-the-date-and-time-for-pickup-the-concerned-person-contacted-me-and-reached-at-the-desired-time-arj-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-221-BZh .it-was-such-a-pleasant-experience-with-eco-clean-waste-management-the-process-was-so-simple-i-just-simply-filled-the-details-online-and-selected-the-date-and-time-for-pickup-the-concerned-person-contacted-me-and-reached-at-the-desired-time-arj .it-was-such-a-pleasant-experience-with-eco-clean-waste-management-the-process-was-so-simple-i-just-simply-filled-the-details-online-and-selected-the-date-and-time-for-pickup-the-concerned-person-contacted-me-and-reached-at-the-desired-time-arj-sub-2 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-221-BZh .anonymous-business-man-26T {
+  width: 27.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 18.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-221-BZh .anonymous-business-man-26T .anonymous-business-man-26T-sub-0 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-221-BZh .anonymous-business-man-26T .anonymous-business-man-26T-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-top: 15px;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-221-BZh .anonymous-business-man-26T .anonymous-business-man-26T-sub-2 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-222-UMm {
+  box-sizing: border-box;
+  padding: 0.55rem 3.6rem 2.7rem 2.3rem;
+  width: 60.4rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.1400000006);
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-222-UMm .auto-group-xsth-BX5 {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 17.35rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-222-UMm .auto-group-xsth-BX5 .item--Xaw {
+  width: 2.3rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-222-UMm .auto-group-xsth-BX5 .hassel-free-good-experience-with-eco-clean-waste-management-home-pickup-service-is-very-convenient-and-a-great-initiative-to-save-the-environment-will-surely-recommend-to-others-EkF {
+  width: 54.1rem;
+  height: 12rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 5.35rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-222-UMm .auto-group-xsth-BX5 .hassel-free-good-experience-with-eco-clean-waste-management-home-pickup-service-is-very-convenient-and-a-great-initiative-to-save-the-environment-will-surely-recommend-to-others-EkF .hassel-free-good-experience-with-eco-clean-waste-management-home-pickup-service-is-very-convenient-and-a-great-initiative-to-save-the-environment-will-surely-recommend-to-others-EkF-sub-0 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-222-UMm .auto-group-xsth-BX5 .hassel-free-good-experience-with-eco-clean-waste-management-home-pickup-service-is-very-convenient-and-a-great-initiative-to-save-the-environment-will-surely-recommend-to-others-EkF .hassel-free-good-experience-with-eco-clean-waste-management-home-pickup-service-is-very-convenient-and-a-great-initiative-to-save-the-environment-will-surely-recommend-to-others-EkF-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-222-UMm .auto-group-xsth-BX5 .hassel-free-good-experience-with-eco-clean-waste-management-home-pickup-service-is-very-convenient-and-a-great-initiative-to-save-the-environment-will-surely-recommend-to-others-EkF .hassel-free-good-experience-with-eco-clean-waste-management-home-pickup-service-is-very-convenient-and-a-great-initiative-to-save-the-environment-will-surely-recommend-to-others-EkF-sub-2 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-222-UMm .anonymous-teacher-swd {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-222-UMm .anonymous-teacher-swd .anonymous-teacher-swd-sub-0 {}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-222-UMm .anonymous-teacher-swd .anonymous-teacher-swd-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-kym .auto-group-rywk-Ejh .auto-group-99j5-GBq .group-222-UMm .anonymous-teacher-swd .anonymous-teacher-swd-sub-2 {}
+
+.home-kym .footer-rHm {
+  box-sizing: border-box;
+  padding-top: 0.993rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #222222;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb {
+  margin: 0rem 28.2rem 0.5rem 12.2rem;
+  width: calc(100% - 40.4rem);
+  height: 19.207rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-vu5h-hZH {
+  margin: 3.906rem 61.7rem 2.089rem 0rem;
+  height: calc(100% - 5.9953rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-vu5h-hZH .scrap-symphony-sanctuary-your-premier-destination-for-trading-scrap-materials-and-a-platform-to-donate-and-manage-waste-responsibly-embrace-a-circular-economy-contribute-to-charitable-causes-by-donating-reusable-items-and-explore-green-solutions-with-our-community-of-startups-and-entrepreneurs-for-a-sustainable-future-cw9 {
+  margin-bottom: 1.4117rem;
+  max-width: 43.7rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-vu5h-hZH .social-media-PqR {
+  margin-left: 0.818rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-vu5h-hZH .social-media-PqR .vector-w6F {
+  margin: 0rem 4.035rem 0rem 0rem;
+  width: 2.9268rem;
+  height: 2.9268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-vu5h-hZH .social-media-PqR .vector-ryu {
+  margin-right: 4.0344rem;
+  width: 3.2195rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-vu5h-hZH .social-media-PqR .vector-1M1 {
+  margin-top: 0.0013rem;
+  width: 3.1463rem;
+  height: 2.6341rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-mowm-KsV {
+  width: 7.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-mowm-KsV .frame-35-UEb {
+  margin-bottom: 0.507rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-mowm-KsV .frame-35-UEb .pages-2X1 {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 2.25;
+  letter-spacing: 0.012rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-mowm-KsV .frame-35-UEb .frame-39-YVM {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-mowm-KsV .frame-35-UEb .frame-39-YVM .home-tZD {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-mowm-KsV .frame-35-UEb .frame-39-YVM .about-us-RZ9 {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-mowm-KsV .frame-35-UEb .frame-39-YVM .overview-wnP {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-mowm-KsV .frame-35-UEb .frame-39-YVM .schedule-pickup-svw {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-imdy-PYb .auto-group-mowm-KsV .contact-us-c7q {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-kym .footer-rHm .auto-group-m8cf-YGP {
+  box-sizing: border-box;
+  padding: 0.6rem 11.5rem 0rem 14.1rem;
+  width: 100%;
+  height: 5.9094rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #555555;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-m8cf-YGP .frame-40-rXy {
+  margin-right: 21.9333rem;
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-m8cf-YGP .frame-40-rXy .mask-group-Q3h {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-m8cf-YGP .frame-40-rXy .mask-group-Xe7 {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-m8cf-YGP .terms-condition-privacy-policy-sxs {
+  margin: 0.1rem 30.3rem 0rem 0rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-kym .footer-rHm .auto-group-m8cf-YGP .scrap-symphony-sanctuary-all-rights-reserved-BCs {
+  margin-top: 0.1rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
