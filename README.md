@@ -1,8 +1,8 @@
 # INTRODUCTION
 
-Welcome to our Eco-Friendly Donations platform , a sustainable solution crafted with HTML, CSS, SCSS and PHP.
-Here, users can contribute to charitable causes and promote responsible living practices by donating items. Our platform fosters a culture of giving, 
-connecting individuals with NGOs for efficient donation coordination. Join us in making a positive impact on the environment and society through thoughtful contributions.
+Eco Clean Waste Management is a sophisticated solution designed to streamline waste disposal and promote eco-conscious practices. Utilizing HTML, CSS, SCSS, and PHP,
+this platform offers intuitive scheduling for waste pickups, real-time tracking, and efficient waste segregation. With a focus on sustainability and user convenience, 
+it encourages responsible waste disposal and rewards users for their eco-friendly efforts. 
 
 ### PROJECT WAS DEVELOPED USING THE FOLLOWING ,
 
@@ -20,33 +20,35 @@ connecting individuals with NGOs for efficient donation coordination. Join us in
 * Open your XAMPP Control Panel and start Apache and MySQL.
 * Copy the source code folder and paste it into the XAMPP's "htdocs" directory.
 * Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin.
-* Create a new database naming "donations".
-* Next write a SQL query to create a table to store the donation form details in "donations-form" table and also to store contact-us details in "contact-us" table. 
+* Create a new database naming "wastemanagement".
+* Next write a SQL query to create a table to store the donation form details in "schedule-pickup-form" table and also to store contact-us details in "contact-us" table. 
 * Start your "apache" and "MySQL" in XAMPP.
-* Browse the Eco-Friendly Donations in a browser. i.e. http://localhost/eco-friendly%20donations/donationform.html
+* Browse the Eco-Friendly Donations in a browser. i.e. http://localhost/eco-clean%20waste%20management/
 
 
 # SCREENSHOTS
 
 ### HOME 
-![Screenshot 2024-04-09 174518](https://github.com/Sandhiya-S5303/Eco-Friendly-Donations/assets/110396890/42a3c942-0a7f-478d-92e1-a027609c95ad)
+![Screenshot 2024-04-14 193508](https://github.com/Sandhiya-S5303/Eco-Clean-Waste-Management/assets/110396890/6702ce90-ccd5-426d-b273-0554ea68d5c1)
 
-
-
-
-### DONATIONS 
-![Screenshot 2024-04-09 174548](https://github.com/Sandhiya-S5303/Eco-Friendly-Donations/assets/110396890/536f98e4-f954-4a20-9f0f-222768e1fedb)
 
 
 
 ### ABOUT US 
-![Screenshot 2024-04-09 174621](https://github.com/Sandhiya-S5303/Eco-Friendly-Donations/assets/110396890/2bb49de6-14b4-4d31-9fc5-5c9d17596235)
+![Screenshot 2024-04-14 193525](https://github.com/Sandhiya-S5303/Eco-Clean-Waste-Management/assets/110396890/9c41de19-d3a9-44f9-8fb3-fb136d3b168e)
+
+
+
+### OVERVIEW
+![Screenshot 2024-04-14 193547](https://github.com/Sandhiya-S5303/Eco-Clean-Waste-Management/assets/110396890/c8fd2ac1-820d-4f3c-8d0d-9a73b21f4532)
 
 
 
 
-### CONTACT US
-![Screenshot 2024-04-09 174641](https://github.com/Sandhiya-S5303/Eco-Friendly-Donations/assets/110396890/7598d8a1-79ad-415c-9bb1-2e3aa4a702aa)
+### SCHEDULE PICKUP
+![Screenshot 2024-04-14 193610](https://github.com/Sandhiya-S5303/Eco-Clean-Waste-Management/assets/110396890/36cb0384-5a03-4588-a301-0dfb5bcf0a0c)
 
 
+### CONTACT US 
+![Screenshot 2024-04-14 193630](https://github.com/Sandhiya-S5303/Eco-Clean-Waste-Management/assets/110396890/221df906-8d62-4d18-9a63-5ea133a0ca71)
 
